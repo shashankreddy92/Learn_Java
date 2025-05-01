@@ -33,7 +33,7 @@ public class CallbyValueAndCallByRef {
 
 	}
 
-	// call by ref
+	// call by reference
 	public void swap(CallbyValueAndCallByRef t) {
 		int temp;
 		temp = t.p;// temp = 30
